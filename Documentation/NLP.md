@@ -1,3 +1,5 @@
+
+
 ### Що таке NLP?
 
 Подальшу інформацію було взято з <https://habr.com/ru/company/abbyy/blog/437008/>
